@@ -1,0 +1,10 @@
+Keras>=2.1
+matplotlib>=2.2
+numpy>=1.14
+imageio>=2.1
+moviepy>=0.2.3
+scikit-image>=0.13.1
+tqdm>=4.11
+h5py>=2.7
+jupyter>=1.0
+Pillow>=3.1
